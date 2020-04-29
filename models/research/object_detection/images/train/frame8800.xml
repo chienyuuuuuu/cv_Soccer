@@ -1,0 +1,27 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame8800.jpg</filename>
+	<path>/Users/chienyu/Projects/sportSG/Soccer-Ball-Detection-YOLOv2-master/soccer_ball_data/images/frame8800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>639</ymin>
+			<xmax>581</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+</annotation>
+ 

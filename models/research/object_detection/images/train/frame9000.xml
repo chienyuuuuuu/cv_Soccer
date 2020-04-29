@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame9000.jpg</filename>
+	<path>/Users/chienyu/Projects/sportSG/Soccer-Ball-Detection-YOLOv2-master/soccer_ball_data/images/frame9000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>906</ymin>
+			<xmax>259</xmax>
+			<ymax>1065</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>675</xmin>
+			<ymin>10</ymin>
+			<xmax>1422</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+</annotation>
+ 

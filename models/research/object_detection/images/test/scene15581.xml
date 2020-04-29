@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>scene15581.png</filename>
+	<path>/Users/chienyu/Projects/sportSG/Soccer-Ball-Detection-YOLOv2-master/soccer_ball_data/images/scene15581.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1090</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1407</xmin>
+			<ymin>572</ymin>
+			<xmax>1461</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1638</xmin>
+			<ymin>134</ymin>
+			<xmax>1781</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+</annotation>
+ 
